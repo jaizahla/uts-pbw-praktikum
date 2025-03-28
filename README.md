@@ -10,6 +10,12 @@ Teknologi yang Digunakan
 	•	Bootstrap  (framework CSS untuk responsivitas)
 
 Struktur File
+- index.html : halaman utama atau beranda
+- portfolio.html : halaman portfolio projek
+- prestasi.html : halaman daftar prestasi
+- contact.html : halaman kontak
+- style.css : file styling
+- script.js :javascript untuk interaksi dasar
 
 instalasi penggunaan 
 1. clone atau download repository ini
